@@ -25,7 +25,7 @@ source 'https://github.com/CocoaPods/Specs.git'
 platform :ios, '8.0'
 use_frameworks!
 
-pod 'CoreStoreKit', '~> 0.1'
+pod 'CoreStoreKit', '~> 0.1.1'
 ```
 
 Then, run the following command:
